@@ -4,6 +4,7 @@ Exercise 1: Tight-binding model
 '''
 
 import numpy as np
+        
     # Convert custom quantum circuit into a gate
     YY = YY_qc.to_instruction();
 
