@@ -4,6 +4,7 @@ Exercise 1: Tight-binding model
 '''
 
 import numpy as np
+    print(Trot_qc.draw());
 
     return Trot_qc.to_instruction();
 
