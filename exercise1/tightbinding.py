@@ -4,6 +4,7 @@ Exercise 1: Tight-binding model
 '''
 
 import numpy as np
+    Trot_qr = QuantumRegister(nq)
     Trot_qc = QuantumCircuit(Trot_qr, name='Trot')
 
     for i in range(0, nq - 1):
