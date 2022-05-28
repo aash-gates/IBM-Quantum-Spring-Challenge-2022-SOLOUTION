@@ -4,6 +4,7 @@ Exercise 1: Tight-binding model
 '''
 
 import numpy as np
+
     # example code: put all together as single trotter step circuit
     Trot_qr = QuantumRegister(nq)
     Trot_qc = QuantumCircuit(Trot_qr, name='Trot')
