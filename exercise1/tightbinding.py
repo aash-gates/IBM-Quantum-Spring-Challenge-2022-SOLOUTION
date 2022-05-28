@@ -4,6 +4,7 @@ Exercise 1: Tight-binding model
 '''
 
 import numpy as np
+    Trot_gate = U_step(3);
 
     for i in range(trotter_steps):
         qc.append(Trot_gate, list(range(3)));
