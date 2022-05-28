@@ -4,6 +4,7 @@ Exercise 1: Tight-binding model
 '''
 
 import numpy as np
+
     for i in range(0, nq - 1):
         Trot_qc.append(YY, [Trot_qr[i], Trot_qr[i+1]]);
         Trot_qc.append(XX, [Trot_qr[i], Trot_qr[i+1]]);
