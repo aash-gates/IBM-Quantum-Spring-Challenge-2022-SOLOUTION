@@ -4,6 +4,7 @@ Exercise 1: Tight-binding model
 '''
 
 import numpy as np
+
     qr = QuantumRegister(3)
     qc = QuantumCircuit(qr)
     Trot_gate = U_step(3);
