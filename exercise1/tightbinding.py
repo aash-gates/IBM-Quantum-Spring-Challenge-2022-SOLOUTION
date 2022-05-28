@@ -4,6 +4,7 @@ Exercise 1: Tight-binding model
 '''
 
 import numpy as np
+
 def U_trotter(t_target, trotter_steps) -> QuantumCircuit:
     '''
     '''
