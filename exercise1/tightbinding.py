@@ -4,6 +4,7 @@ Exercise 1: Tight-binding model
 '''
 
 import numpy as np
+        qc.append(Trot_gate, list(range(3)));
 
     print(qc.draw())
 
